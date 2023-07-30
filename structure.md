@@ -1,0 +1,20 @@
+- events
+  - authenticated token
+  - organizers (just users with a token)
+  - competitions
+    - competitors (registered users)
+      - scores
+        - min / max (adjustable)
+    - sparring
+      - brackets
+        - rounds (competitors divided by two, with buys)
+        - age
+        - belt
+    - forms
+      - brackets
+        - age
+        - belt
+    - weapons
+      - brackets
+        - age
+        - belt
